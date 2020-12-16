@@ -1,0 +1,6 @@
+1. python3 interactor.py > out.txt 2> err.txt + Скриншот лаб 9 №1
+2. В файл err.txt + Скриншот лаб 9 №2
+3. /home/alex/Pictures
+4. –quiet или –q
+5. Скачаются файлы форматов jpg и html, но при этом файлы формата html удалятся.
+6. tar -zxvf quiz_archive.tar.gz + Скриншот лаб 9 №6
